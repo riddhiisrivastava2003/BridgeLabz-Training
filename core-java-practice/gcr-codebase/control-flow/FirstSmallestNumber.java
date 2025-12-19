@@ -9,5 +9,7 @@ public class FirstIsSmallest{
         else{
              System.out.println("Is the first number smallest? No");
         }
+
+        
     }
 }
