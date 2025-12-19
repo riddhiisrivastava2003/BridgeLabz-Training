@@ -5,5 +5,6 @@ class temperature{
         double temp=sc.nextDouble();
         double farh=(temp*9/5)+32;
         System.out.println("temperature"+farh);
+        
     }
 }
