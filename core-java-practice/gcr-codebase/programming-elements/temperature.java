@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class temperature{
+class Temperature{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         double temp=sc.nextDouble();
