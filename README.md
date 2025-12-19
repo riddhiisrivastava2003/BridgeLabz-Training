@@ -1,1 +1,51 @@
-# BridgeLabz-Training
+# BridgeLabz Training – Daily Progress Log (Riddhi Srivastava-2215001442)
+
+This repository documents my daily learning progress during the BridgeLabz Java Training Program.
+The log is organized week-wise with clear dates and task descriptions, reflecting consistent learning, hands-on practice, and assignment submissions.
+
+# 🗓️ Week 1: Java Environment Setup & Core Programming Fundamentals
+ # 📅 16 December 2025 (Monday) – Day 1
+
+Installed and configured Git and required development tools.
+
+Set up Java Development Kit (JDK).
+
+Installed and configured Eclipse IDE.
+
+Verified environment setup and repository initialization.
+
+# 📅 17 December 2025 (Tuesday) – Day 2
+
+Introduction to Java programming language.
+
+Studied Java history, features, and use cases.
+
+Understood Java program structure and execution flow.
+
+Solved and practiced basic Java problems on LeetCode.
+
+# 📅 18 December 2025 (Wednesday) – Day 3
+
+Learned Programming Elements in Java.
+
+Practiced Java basic concepts:
+
+Variables and Data Types
+
+Operators
+
+Input/Output
+
+Completed and submitted Level 1 and Level 2 assignments based on programming elements.
+
+# 📅 19 December 2025 (Thursday) – Day 4
+
+Studied Java Fundamentals in depth.
+
+Learned and implemented Control Flow Statements:
+
+Conditional statements (if, if-else, switch)
+
+Looping constructs (for, while, do-while)
+
+Completed and submitted Level 1, Level 2, and Level 3 assignments on control flow.
