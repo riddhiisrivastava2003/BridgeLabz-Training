@@ -1,5 +1,5 @@
 import java.util.*;
-class SimpleInterst{
+class SimpleInterest{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         double principal=sc.nextDouble, rate=sc.nextDouble(), time=sc.nextDouble();
