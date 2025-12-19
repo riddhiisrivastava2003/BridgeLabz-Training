@@ -16,6 +16,7 @@ import java.util.*;
 
             for(int i=1;i<=power;i++){
                 result=result*number;
+                
 
             }
 
