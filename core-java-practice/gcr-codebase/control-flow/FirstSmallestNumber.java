@@ -7,7 +7,7 @@ public class FirstIsSmallest{
             System.out.println("Is the first number smallest? Yes");
         }
         else{
-             System.out.println("Is the first number smallest? Yes");
+             System.out.println("Is the first number smallest? No");
         }
     }
 }
