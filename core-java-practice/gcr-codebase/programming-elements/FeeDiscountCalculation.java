@@ -5,7 +5,7 @@ public class FeeDiscount{
         double fee=sc.nextDouble();
         double discountPercent=sc.nextDouble();
         double discount=(discountPercent/100)*fee;
-        double discountedfee=fee-discount;
-        System.out.println("The discount amount is INR "+discount+ "and the discunted fee is INR "+discountedfee);
+        double discountedFee=fee-discount;
+        System.out.println("The discount amount is INR "+discount+ "and the discunted fee is INR "+discountedFee);
     }
 }
