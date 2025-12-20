@@ -24,6 +24,7 @@ public class CopyOf2dTo1d{
                 array[index]=matrix[i][j];
                 index++;
             }
+        }
 
             System.out.println("1D array");
             for(int i=0;i<array.length;i++){
@@ -34,4 +35,3 @@ public class CopyOf2dTo1d{
 
     }
 
-}
