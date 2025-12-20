@@ -1,34 +1,51 @@
-# BridgeLabz-Training – Core Java Practice 🚀 
+# BridgeLabz Training – Daily Progress Log (Riddhi Srivastava-2215001442)
 
-This repository contains my Core Java practice programs completed as part of the BridgeLabz Training Program.
-It reflects my daily coding practice, problem-solving exercises, and the successful completion of Level-1 and Level-2 learning modules.
+This repository documents my daily learning progress during the BridgeLabz Java Training Program.
+The log is organized week-wise with clear dates and task descriptions, reflecting consistent learning, hands-on practice, and assignment submissions.
 
-# 📌 Purpose of This Repository
+# 🗓️ Week 1: Java Environment Setup & Core Programming Fundamentals
+ # 📅 16 December 2025 (Monday) – Day 1
 
-Practice Core Java fundamentals
+Installed and configured Git and required development tools.
 
-Strengthen logical thinking and problem-solving skills
+Set up Java Development Kit (JDK).
 
-Apply concepts through hands-on coding
+Installed and configured Eclipse IDE.
 
-Maintain daily progress tracking on GitHub
+Verified environment setup and repository initialization.
 
-Build a strong base for advanced Java development
+# 📅 17 December 2025 (Tuesday) – Day 2
 
-# Technologies Used
+Introduction to Java programming language.
 
-Programming Language: Java
+Studied Java history, features, and use cases.
 
-IDE: VS Code/Eclipse
+Understood Java program structure and execution flow.
 
-Version Control: Git & GitHub
+Solved and practiced basic Java problems on LeetCode.
 
-# Learning Outcomes
+# 📅 18 December 2025 (Wednesday) – Day 3
 
-Clear understanding of Core Java concepts
+Learned Programming Elements in Java.
 
-Improved problem-solving approach
+Practiced Java basic concepts:
 
-Hands-on experience with GitHub workflow
+Variables and Data Types
 
-Ability to write clean and structured Java code
+Operators
+
+Input/Output
+
+Completed and submitted Level 1 and Level 2 assignments based on programming elements.
+
+# 📅 19 December 2025 (Thursday) – Day 4
+
+Studied Java Fundamentals in depth.
+
+Learned and implemented Control Flow Statements:
+
+Conditional statements (if, if-else, switch)
+
+Looping constructs (for, while, do-while)
+
+Completed and submitted Level 1, Level 2, and Level 3 assignments on control flow.
