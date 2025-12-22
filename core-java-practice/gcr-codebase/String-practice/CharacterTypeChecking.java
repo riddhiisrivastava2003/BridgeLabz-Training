@@ -39,5 +39,7 @@ public class CharacterTypeChecking{
         String[][] result=findCharacterTypes(text);
         displayType(result);
     }
+
+    
     
 }
