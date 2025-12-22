@@ -22,10 +22,10 @@ public class VowelsAndConsonantsCount{
 
         for(int i=0;i<text.length();i++){
             String result=checkCharacter(text.charAt(i));
-             if(result.equals("Vowel")){
+             if(result.equals("vowel")){
                 vowels++;
             }
-            else if(result.equals("Consonant")){
+            else if(result.equals("consonant")){
                 consonants++;
             }
         }
