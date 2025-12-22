@@ -19,7 +19,7 @@ public class SplitTextComparison {
 		}
 		return count;
 		
-	}
+    }
 	static String[] splitUsingCharAt(String text) {
 		
 		int len=findLen(text);
