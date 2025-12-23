@@ -59,3 +59,11 @@ Understood array declaration, initialization, and traversal
 Practiced array-based problem solving
 
 Completed and submitted Level 1 and Level 2 assignments on Arrays
+
+# 📅 22 December 2025 – Day 6
+
+Learned Strings in Java
+
+Learned and Understood Strings and Exception Handling
+
+Completion of Level1, level2, and level3 of assignments on strings in java
