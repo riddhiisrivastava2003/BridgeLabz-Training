@@ -67,3 +67,7 @@ Learned Strings in Java
 Learned and Understood Strings and Exception Handling
 
 Completion of Level1, level2, and level3 of assignments on strings in java
+
+# 📅 23 December 2025 – Day 7
+
+Solved and completed scenario based questions.
