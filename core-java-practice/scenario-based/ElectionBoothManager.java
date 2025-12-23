@@ -15,6 +15,7 @@ public class ElectionBoothManager {
 		
 		if(age==0) {
 			System.out.println( "Thanks for visiting!!");
+
 			break;
 		}
 		
