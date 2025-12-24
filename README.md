@@ -71,3 +71,14 @@ Completion of Level1, level2, and level3 of assignments on strings in java
 # 📅 23 December 2025 – Day 7
 
 Solved and completed scenario based questions.
+
+# 📅 24 December 2025 – Day 8
+
+Learned methods in java
+
+Read and understood Methods in java
+
+Assinged with level1, level2 and level 3 of assignments. 
+
+Assigned with extra questions.
+
