@@ -1,0 +1,41 @@
+import java.util.*;
+
+public class OTPGenerator{
+    static int generateOTP(){
+        return (int)(Math.random()*900000)+100000;
+        }
+
+
+        static boolean uniqueOTPCheck(int[] otp){
+            for(int i=0;i<otp.length;i++){
+                for(int j=i+1;j<otp.length;j++){
+                    if(otp[i]==otp[j]){
+                        return false;
+                    }
+                
+                }
+            }
+
+            return true;
+        }
+
+        public static void main(String args[]){
+            int[] otp=new int[10];
+            for(int i=0;i<10;i++){
+                otp[i]=generateOTP();
+            }
+
+            System.out.println("generated otp");
+            for(int i:otp){
+                System.out.println(i);
+            }
+
+            if(uniqueOTPCheck(otp)){
+                System.out.println("all otp are unique");
+            }
+            else{
+                System.out.println("not unique")
+           
+            }
+        }
+}
