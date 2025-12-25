@@ -1,13 +1,7 @@
-
-
 import java.util.*;
-
-
 public class SumOfNaturalNumbers {
-	
 	public static int sumByRecursion(int num) {
 		if(num==0) return 0;
-		
 		return num+sumByRecursion(num-1);
 	}
 	
