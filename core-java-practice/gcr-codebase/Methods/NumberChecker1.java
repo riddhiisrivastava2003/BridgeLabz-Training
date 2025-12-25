@@ -8,7 +8,7 @@ public class NumberChecker1 {
 	
 
 	public static int[] getDigit(int n) {
-		int len = countDigit(n);
+		int len = countingDigits(n);
 		int[] dig = new int[len];
 		for(int i =len-1;i>=0;i--) {
 			dig[i] = n%10;
