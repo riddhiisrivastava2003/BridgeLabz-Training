@@ -82,4 +82,10 @@ Assinged with level1, level2 and level 3 of assignments.
 
 Assigned with extra questions.
 
+# 📅 26 December 2025 – Day 8
+
+Gave first review
+
+Submitted the methods assignment level1,level2,level3
+
 
