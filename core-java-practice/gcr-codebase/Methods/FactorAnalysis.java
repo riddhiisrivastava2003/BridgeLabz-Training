@@ -1,0 +1,60 @@
+import java.util.*;
+public class FactorAnalysis{
+    static int[] getFactor(int num){
+        int count=0;
+        for(int i=1;i<=num;i++){
+            if(num%i==0) count++;
+        }
+
+        int[] fact=new int[count];
+        int index=0;
+        for(int i=1;i<=num;i++)
+            if(num%i==0) fact[index++]=i;
+        return fact;
+
+    }
+
+
+    static int greatest(int[] fact){
+        return fact[fact.length-1];
+    }
+
+    static int sum(int [] fact){
+        int sum=0;
+        for(int i:fact) sum =sum+i;
+        return sum;
+    }
+
+    static int product(int[] fact){
+        long prod=1;
+        for(int i:fact) 
+            prod=prod*i;
+        return prod;
+
+
+
+    }
+
+    static double productOfCubes(int[] fact){
+        double prod=1;
+        for(int i:fact)
+            prod=prod*Math.pow(i,3);
+        return prod;
+    }
+
+
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter number");
+        int num=sc.nextInt();
+        int[] fact=getFacto(num);
+
+        System.out.println("factors are "+Arrays.toString(fact));
+        System.out.println("greatest factor is "+greatest(fact));
+        System.out.println("sum is "+sum(fact));
+        System.out.println("product is"+product(fact));
+        System.out.println("product of cubes is "+productOfCubes(fact));
+
+
+    }
+}
