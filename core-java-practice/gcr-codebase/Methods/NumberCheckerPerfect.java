@@ -27,7 +27,7 @@ public class NumberCheckerPerfect{
 
     public static int factorial(int num){
         int fact=1;
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<=num;i++)
             fact=fact*i;
         return fact;
     }
@@ -49,6 +49,7 @@ public class NumberCheckerPerfect{
 
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
+        System.out.println("enter");
         int num=sc.nextInt();
 
         System.out.println("perfect number check "+perfectCheck(num));
