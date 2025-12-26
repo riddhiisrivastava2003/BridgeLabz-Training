@@ -25,7 +25,7 @@ public class FactorAnalysis{
         return sum;
     }
 
-    static int product(int[] fact){
+    static long product(int[] fact){
         long prod=1;
         for(int i:fact) 
             prod=prod*i;
@@ -47,7 +47,7 @@ public class FactorAnalysis{
         Scanner sc=new Scanner(System.in);
         System.out.println("enter number");
         int num=sc.nextInt();
-        int[] fact=getFacto(num);
+        int[] fact=getFactor(num);
 
         System.out.println("factors are "+Arrays.toString(fact));
         System.out.println("greatest factor is "+greatest(fact));
