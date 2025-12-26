@@ -14,6 +14,9 @@ public class NumberCheckerBuzz{
         while(square>0){
             sum=sum+square%10;
             square=square/10;
+
+
+            
         }
 
         return sum==num;

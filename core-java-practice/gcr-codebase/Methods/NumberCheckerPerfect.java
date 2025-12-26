@@ -16,6 +16,10 @@ public class NumberCheckerPerfect{
     }
 
     public static boolean AbundantCheck(int num){
+
+
+
+        
         return sumOfProperDivisors(num)>num;
     }
 
