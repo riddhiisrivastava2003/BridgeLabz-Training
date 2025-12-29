@@ -88,6 +88,12 @@ Gave first review
 
 Submitted the methods assignment level1,level2,level3
 
-# 27 december 2025
+# 📅 27 december 2025
 
 submitted  Built-in Function assignment
+
+#  📅 29 december 2025
+
+submitted scenraio based questions
+
+submitted employee wage calculation 
