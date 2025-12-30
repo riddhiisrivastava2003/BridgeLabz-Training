@@ -1,10 +1,10 @@
 
-
 import java.util.*;
 
 
 
 public class LineComparisonProblem {
+	//cartesian system k through line ki length calculate karre h 
 	
 	public static double cartesianSystem(int x1,int y1,int x2,int y2) {
 		
@@ -15,6 +15,8 @@ public class LineComparisonProblem {
 	
 	
 	public static void equalityCheck(Double length1,Double length2) {
+		
+		// line equal h ya nhi ye check karre h 
 		System.out.println("Use case 2: checking if the lines are equal");
 		if(length1.equals(length2)) {
 			
@@ -28,6 +30,8 @@ public class LineComparisonProblem {
 	}
 	
 	public static void comparingLines(Double length1, Double length2) {
+		
+		// line ki lengths compare karr ah 
 		int result=length1.compareTo(length2);
 		System.out.println("Use case 3: comparing two lines ");
 		
@@ -59,33 +63,21 @@ public class LineComparisonProblem {
 		Double line2length=cartesianSystem(x3,y3,x4,y4);
 		
 		
-		System.out.println("enter choice");
-		System.out.println("1 for calculating line length");
-		System.out.println("2 for equality of lines ");
-		System.out.println("3 for comparing line length");
+
+		
+		System.out.println("Use case1: cartesian system length ");
+		System.out.println("Length of line 1 "+line1length);
+		System.out.println("Length of line 2 "+line2length);
+		System.out.println();
+		
+		equalityCheck(line1length,line2length);
+		System.out.println();
+		comparingLines(line1length,line2length);
+		System.out.println();
 		
 		
 		
-		int choice=sc.nextInt();
-		
-		switch(choice) {
-		case 1:
-			System.out.println("Use case1: cartesian system length ");
-			System.out.println("Length of line 1 "+line1length);
-			System.out.println("Length of line 2 "+line2length);
-			break;
-		case 2:
-			
-			equalityCheck(line1length,line2length);
-			break;
-		case 3:
-			comparingLines(line1length,line2length);
-			break;
-		default:
-			System.out.println("invalid choice");
-			
-			
-			
+
 			
 		}
 		
@@ -98,4 +90,4 @@ public class LineComparisonProblem {
 		
 		
 	}
-}
+
