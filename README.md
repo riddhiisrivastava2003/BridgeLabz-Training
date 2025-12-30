@@ -3,7 +3,6 @@
 
 This repository documents my daily learning progress during the BridgeLabz Java Training Program. The log is organized week-wise with clear dates and task descriptions, reflecting consistent learning, hands-on practice, and assignment submissions.
 
-# 🗓️ Week 1: Java Environment Setup & Core Programming Fundamentals
 # 📅 16 December 2025 – Day 1
 
 Installed and configured Git and required development tools
@@ -98,4 +97,10 @@ submitted scenraio based questions
 
 submitted employee wage calculation 
 
+# 📅 30 december 2025
 
+completed employee wage calculation
+
+completed snake and ladder
+
+completed line comparison
