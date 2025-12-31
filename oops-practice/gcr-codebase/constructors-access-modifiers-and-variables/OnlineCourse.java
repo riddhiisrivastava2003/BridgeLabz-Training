@@ -4,27 +4,27 @@ import java.util.Scanner;
 
 class OnlineCourse {
 	String courseName;
-	int courseDuration;
-	double courseFee;
+	int duration;
+	double fee;
 	
 	
 	static String instituteName ="BridgeLabz";
 	
-	OnlineCourse(String title , int duration ,double fee){
-		courseName = title;
-		courseDuration = duration;
-		courseFee = fee;
+	OnlineCourse(String courseName , int duration ,double fee){
+		this.courseName = courseName;
+		this.duration = duration;
+	this.fee = fee;
 		
 		
 		
 	}
-	void displayCourseInfo() {
+	void displayCourseDetails() {
 		System.out.println("Course Name : " + courseName);
-        System.out.println("Duration    : " + courseDuration + " months");
-        System.out.println("Fee         : " + courseFee);
+        System.out.println("Duration    : " + duration + " months");
+        System.out.println("Fee         : " + fee);
         System.out.println("Institute   : " + instituteName);
 	}
-	static void changeInstitutionName (String newName) {
+	static void updateInstitutionName (String newName) {
 		instituteName = newName ;
 		
 		
@@ -44,9 +44,9 @@ class OnlineCourse {
 		OnlineCourse course = new OnlineCourse(name , duration , fee);
 		System.out.println("Enter Updated institute name : ");
 		String newInstitute = sc.nextLine();
-		course.changeInstitutionName(newInstitute);
+		OnlineCourse.updateInstitutionName(newInstitute);
 		
-		course.displayCourseInfo();
+		course.displayCourseDetails();
 		
 		
 	}
