@@ -17,3 +17,13 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 * Completed Classes and Objects assignments:
 
 ✅ Level 1 & Level 2
+
+# 📅 31 December 2025 (Wednesday) [class-and-object](./oops-practice/gcr-codebase/constructors-access-modifiers-and-variables/)
+
+* learned about constructors, variables and access modifiers
+
+* completed constructor, instance variables and access modifiers assignment 
+
+✅ Level 1 & Level 2
+
+
