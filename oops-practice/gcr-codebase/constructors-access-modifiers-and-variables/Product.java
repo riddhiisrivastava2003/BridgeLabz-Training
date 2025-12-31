@@ -16,7 +16,7 @@ class Product {
 	}
 
 	
-	void displayProductdetails() {
+	void displayProductDetails() {
 		System.out.println("Product Name : " + productName );
 		System.out.println("Price: " + price);
 		
@@ -29,15 +29,24 @@ class Product {
 	}
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+
+        System.out.println("no of products to be created");
+        int n=sc.nextInt();
+        sc.nextLine();
+        for(int i=1;i<=n;i++){
+
+            System.out.println("enter details for product "+i);
 		
 		System.out.println("Enter Product Name : ");
 		String name = sc.nextLine();
 		
 		System.out.println("Enter Price : ");
 		double price = sc.nextDouble();
+         sc.nextLine();
 		
 		Product p = new Product(name , price);
-		p.displayProductdetails();
+		p.displayProductDetails();
+        }
 		Product.displayTotalProducts();
 		
 	}
