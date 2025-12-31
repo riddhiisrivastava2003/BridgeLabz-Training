@@ -24,6 +24,6 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed constructor, instance variables and access modifiers assignment 
 
-✅ Level 1 & Level 2
+✅ Level 1 
 
 
