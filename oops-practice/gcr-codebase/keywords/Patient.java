@@ -24,6 +24,8 @@ class Patient{
 
     }
 
+    
+
 
 
     static void getTotalPatients(){
