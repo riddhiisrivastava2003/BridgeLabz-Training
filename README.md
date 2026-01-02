@@ -27,7 +27,7 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 ✅ Level 1 
 
 
-#  📅 1 January 2026 [class-and-object] (./oops-practice/gcr-codebase/keywords/)
+#  📅 1 January 2026 
 
 * learned about  keywords and static, final key words and instanceof operator
 
@@ -35,7 +35,7 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 ✅ Level 1 
 
-#  📅 2 January 2026 [class-and-object] (./oops-practice/gcr-codebase/keywords/)
+#  📅 2 January 2026 
 
 * learned about object oriented design principles and oblect modeleing designs
 
