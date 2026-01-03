@@ -43,5 +43,13 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 ✅ Level 1 
 
+#  📅 3 January 2026 
+
+* learned about inheritance in java and its multiple types
+
+* ✅  completed assignment 
+
+ 
+
 
 
