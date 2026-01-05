@@ -157,8 +157,11 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * ✅  completed assignment 
 
-# 4 January 2026
+#  📅 4 January 2026
 
 * learned about encapsulation in java
 
-* ✅  completed assignment 
+* ✅  completed assignment
+
+* completed scenario based questions
+  
