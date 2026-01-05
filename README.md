@@ -1,5 +1,5 @@
 # BridgeLabz Training – Daily Progress Log 
-(Riddhi Srivastava – 2215001442)
+Riddhi Srivastava 
 
 This repository documents my daily learning progress during the BridgeLabz Java Training Program. The log is organized week-wise with clear dates and task descriptions, reflecting consistent learning, hands-on practice, and assignment submissions.
 
@@ -104,3 +104,61 @@ completed employee wage calculation
 completed snake and ladder
 
 completed line comparison
+
+
+# 📘 Daily Progress Log – BridgeLabz Training
+
+This repository contains Object-Oriented Programming (OOPs) practice programs in Java.
+The programs are designed to understand and implement core OOP concepts using real-world examples.
+It serves as a learning resource to strengthen Java fundamentals and improve object-oriented design skills.
+
+# Week -3 Starting with oops concepts  
+ 
+# 📅 30 December 2025 (Tuesday) [class-and-object](./oops-practice/gcr-codebase/class-and-object/)
+
+* Started OOPS practice in Java.
+
+* Learned basics of class structure, object creation, and data hiding.
+
+* Created a dedicated Git branch: oops-practice
+
+* Completed Classes and Objects assignments:
+
+✅ Level 1 & Level 2
+
+# 📅 31 December 2025 (Wednesday) [class-and-object](./oops-practice/gcr-codebase/constructors-access-modifiers-and-variables/)
+
+* learned about constructors, variables and access modifiers
+
+* completed constructor, instance variables and access modifiers assignment 
+
+✅ Level 1 
+
+
+#  📅 1 January 2026 
+
+* learned about  keywords and static, final key words and instanceof operator
+
+* completed assignment 
+
+✅ Level 1 
+
+#  📅 2 January 2026 
+
+* learned about object oriented design principles and oblect modeleing designs
+
+* completed assignment 
+
+✅ Level 1 
+
+#  📅 3 January 2026 
+
+* learned about inheritance in java and its multiple types
+
+* ✅  completed assignment 
+
+# 4 January 2026
+
+* learned about encapsulation in java
+
+* ✅  completed assignment 
