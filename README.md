@@ -164,4 +164,8 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 * ✅  completed assignment
 
 * completed scenario based questions
+
+#  📅 5 January 2026
+
+* completed leetcode based questions and scenario based questions
   
