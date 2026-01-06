@@ -39,7 +39,6 @@ public class LibrarySystem{
 
 
 
-    // Method to display all books
     static void displayBooks(){
         System.out.println();
         for (int i =0; i<bookTitles.length;i++) {
@@ -53,7 +52,6 @@ public class LibrarySystem{
 
     }
 
-    // Method to search book by partial title
     static void searchBook(String searchText){
         boolean found = false;
         System.out.println("\nSearch results:");
