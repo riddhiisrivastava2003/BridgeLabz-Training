@@ -157,7 +157,7 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * ✅  completed assignment 
 
-#  📅 4 January 2026
+#  📅 5 January 2026
 
 * learned about encapsulation in java
 
@@ -165,7 +165,13 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed scenario based questions
 
-#  📅 5 January 2026
+#  📅 6 January 2026
 
 * completed leetcode based questions and scenario based questions
+
+# 📅 7 January 2026
+
+* completed leetcode based questions and scenario based questions
+
+  
   
