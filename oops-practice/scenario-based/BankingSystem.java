@@ -223,7 +223,7 @@ public class BankingSystem{
 
         if(a!=null){
             a.deposit(amt);
-            System.out.println("deposit successfull");
+            System.out.println("deposit sucessfull");
         }
 
         else{
@@ -269,7 +269,7 @@ public class BankingSystem{
 
 
 
-    //tranfer
+    //transfer
 
     static void transferMoney(){
         System.out.print("from acc: ");
