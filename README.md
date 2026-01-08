@@ -173,5 +173,16 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed leetcode based questions and scenario based questions
 
+# 📅 8 January 2026
+
+* started with dsa
+
+* learned about linked list (singly,doubly,circular)
+
+* completed assignment
+
+
+
+
   
   
