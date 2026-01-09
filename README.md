@@ -181,6 +181,15 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed assignment
 
+# 📅 9 January 2026
+
+* submitted linked list assignment
+
+* submitted oops scenario based questions
+
+
+
+
 
 
 
