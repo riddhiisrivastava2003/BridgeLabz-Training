@@ -190,6 +190,12 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 # 📅 12 January 2026
 
 * assigned with oops scenario based questions
+
+# 📅 13 January 2026
+
+* completed leetcode questions and got material for stack queue and hashmap
+
+
   
 
 
