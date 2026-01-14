@@ -195,11 +195,6 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed leetcode questions and got material for stack queue and hashmap
 
-
-  
-
-
-
 # 📅 12 January 2026
 
 * assigned with oops scenario based questions
@@ -209,6 +204,12 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 * completed scenario based questions on oops
 
 *  got material and assignment for stack queue and hashmap
+
+# 📅 14 January 2026
+
+* got understanding on stack, queues, hashmaps and hash functions
+
+
 
 
 
