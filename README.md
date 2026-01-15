@@ -209,6 +209,10 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * got understanding on stack, queues, hashmaps and hash functions
 
+# 📅 15 January 2026
+
+* completed sorting algorithms 
+
 
 
 
