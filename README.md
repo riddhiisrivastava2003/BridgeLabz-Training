@@ -213,7 +213,10 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 
 * completed sorting algorithms 
 
+# 📅 16 January 2026
 
+* got introduction with searching algorithms and string builder, string buffer, input stream reader, file reader
+  
 
 
 
