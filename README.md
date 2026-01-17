@@ -216,6 +216,10 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 # 📅 16 January 2026
 
 * got introduction with searching algorithms and string builder, string buffer, input stream reader, file reader
+
+# 📅 17 January 2026
+
+* learnt about searching algorithms
   
 
 
