@@ -1,2 +1,4 @@
-hello riddhi
-birdgelabz trainng is going on
+Hello world this is a sample file
+Java is a powerful programming language
+This file is used for testing FileReader and InputStreamReader
+Performance comparison is important in real applications
