@@ -3,6 +3,8 @@
 import java.util.*;
 
 
+
+
 public class StockSpanStack {
 	
 	static void spanCalculation(int []price,int n) {
