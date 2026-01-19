@@ -220,6 +220,10 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 # 📅 17 January 2026
 
 * learnt about searching algorithms
+
+# 📅 19 January 2026
+
+* assigned with scenario-based questions, submitted addressbook problem and runtime analysis assignment
   
 
 
