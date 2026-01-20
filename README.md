@@ -224,6 +224,12 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 # 📅 19 January 2026
 
 * assigned with scenario-based questions, submitted addressbook problem and runtime analysis assignment
+
+# 📅 20 January 2026
+
+* completed dsa scenario based questions and oops scenario based questions
+  
+
   
 
 
