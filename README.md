@@ -230,11 +230,9 @@ It serves as a learning resource to strengthen Java fundamentals and improve obj
 * completed dsa scenario based questions and oops scenario based questions
   
 
-  
+# 📅 21 January 2026
 
-
-
-
+* learned about generics and completed generics assignment
 
 
 
