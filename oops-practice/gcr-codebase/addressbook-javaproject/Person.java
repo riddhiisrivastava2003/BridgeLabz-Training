@@ -77,6 +77,8 @@ public class Person{
 
     //uc10
 
+
+    @Override 
     public String toString(){
         return firstName+" "+lastName+" | "+city+" | "+state+" | "+zip+" | "+phone+" | "+email;
 

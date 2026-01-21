@@ -22,21 +22,28 @@ public class AddressBookMain{
 
         while(true){
             System.out.println("0. display all contacts");
-            System.out.println("1. add");
+            System.out.println("1. add contact");
 
-            System.out.println("2. edit");
-            System.out.println("3. delete");
+            System.out.println("2. edit contact");
+            System.out.println("3. delete contact");
 
            // System.out.println("display all contacts");
-            System.out.println("4. search city");
-            System.out.println("5. search state");
-            System.out.println("6. count city");
-            System.out.println("7. count state");
-            System.out.println("8. sort name");
-            System.out.println("9. sort city");
-            System.out.println("10. sort state");
-            System.out.println("11. sort zip");
-            System.out.println("12. exit");
+            System.out.println("4. search by city");
+            System.out.println("5. search by state");
+            System.out.println("6. count by city");
+            System.out.println("7. count by state");
+            System.out.println("8. sort by name");
+            System.out.println("9. sort by city");
+            System.out.println("10. sort by state");
+            System.out.println("11. sort by zip");
+            System.out.println("12. add new address book");
+            System.out.println("13. switch address book");
+            System.out.println("14. search city across system");
+            System.out.println("15. search state across system");
+            System.out.println("16. count city across system");
+            System.out.println("17. count state across system");
+
+            System.out.println("18. exit");
 
             int choice=sc.nextInt();
 
@@ -126,7 +133,35 @@ public class AddressBookMain{
                                 break;
 
                                 case 12:
+                                    System.out.println("enter new address book name");
+                                    system.addAddressBook(sc.nextLine());
+                                    break;
+
+                                 case 13:
+                                    System.out.println("enter address book name: ");
+                                    currentBook=system.getAddressBook(sc.nextLine());
+                                    break;   
+                                    
+                                    case 14:
+                                        system.searchByCity(sc.nextLine());
+                                        break;
+                                
+                                        case 15:
+                                        system.searchByState(sc.nextLine());
+                                        break;
+
+                                        case 16:
+                                        system.countByCity(sc.nextLine());
+                                        break;
+
+                                        case 17:
+                                        system.countByState(sc.nextLine());
+                                        break;
+
+
+                                case 18:
                                     System.exit(0);
+                                    
 
 
 

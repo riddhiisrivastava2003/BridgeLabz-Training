@@ -15,10 +15,51 @@ public class AddressBookSystem{
         return books.get(name);
     }
 
-    public Map<String, AddressBook> getAllAddressBooks(){
-        return books;
+    // public Map<String, AddressBook> getAllAddressBooks(){
+    //     return books;
+    // }
+
+    public void  searchByCity(String city){
+        for(String book : books.keySet() ){
+            for(Person p:books.get(book).searchByCity(city)){
+            System.out.println(book+" -> "+p);
+        }
     }
 }
 
+
+public void searchByState(String state){
+     for(String book : books.keySet() ){
+            for(Person p:books.get(book).searchByState(state)){
+            System.out.println(book+" -> "+p);
+        }
+    }
+
+}
+
+
+public void countByCity(String city){
+   int total=0;
+   for(AddressBook book:books.values()){
+    total+=book.countByCity(city);
+
+   }
+   System.out.println("total person in city "+city+" : "+total);
+
+
+}
+
+
+public void countByState(String state){
+   int total=0;
+   for(AddressBook book:books.values()){
+    total+=book.countByState(state);
+
+   }
+   System.out.println("total person in city "+state+" : "+total);
+
+
+}
+}
     
     

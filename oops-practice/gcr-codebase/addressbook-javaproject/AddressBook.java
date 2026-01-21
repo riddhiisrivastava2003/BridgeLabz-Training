@@ -1,5 +1,5 @@
 import java.util.*;
-import java.util.stream.Collectors;
+//import java.util.stream.Collectors;
 
 public class AddressBook{
 
@@ -74,8 +74,11 @@ public class AddressBook{
     //uc3
 
     public void deletePerson(String name){
-        persons.removeIf(p->p.getFirstName().equalsIgnoreCase(name));
-        System.out.println("person deleted");
+        //persons.removeIf(p->p.getFirstName().equalsIgnoreCase(name));
+        boolean removed=persons.removeIf(p->p.getFirstName().equalsIgnoreCase((name)));
+       // System.out.println("person deleted");
+
+       System.out.println(removed ? "Person deleted ":"person not found");
 
     }
 
@@ -83,13 +86,28 @@ public class AddressBook{
     //uc8
 
     public List<Person> searchByCity(String city){
-        return persons.stream().filter(p->p.getCity().equalsIgnoreCase(city)).collect(Collectors.toList());
+       // return persons.stream().filter(p->p.getCity().equalsIgnoreCase(city)).collect(Collectors.toList());
+       List<Person> result=new ArrayList<>();
+       for(Person p:persons){
+        if(p.getCity().equalsIgnoreCase(city)){
+            result.add(p);
+        }
+
+       }
+       return result;
 
     }
 
     public List<Person> searchByState(String state){
-        return persons.stream().filter(p->p.getState().equalsIgnoreCase(state)).collect(Collectors.toList());
+       // return persons.stream().filter(p->p.getState().equalsIgnoreCase(state)).collect(Collectors.toList());
+        List<Person> result=new ArrayList<>();
+       for(Person p:persons){
+        if(p.getState().equalsIgnoreCase(state)){
+            result.add(p);
+        }
 
+       }
+       return result;
     }
 
     //uc9
@@ -99,7 +117,7 @@ public class AddressBook{
         return searchByCity(city).size();
     }
 
-    public long countByState(String state){
+    public int countByState(String state){
         return searchByState(state).size();
     }
 
@@ -108,7 +126,8 @@ public class AddressBook{
 
     public void sortByName(){
         persons.sort(Comparator.comparing(Person::getFirstName));
-        persons.forEach(System.out::println);
+       // persons.forEach(System.out::println);
+       displayAll();
 
     }
 
@@ -116,20 +135,23 @@ public class AddressBook{
 
     public void sortByCity(){
         persons.sort(Comparator.comparing(Person::getCity));
-        persons.forEach(System.out::println);
+       // persons.forEach(System.out::println);
+       displayAll();
 
     }
 
 
     public void sortByState(){
         persons.sort(Comparator.comparing(Person::getState));
-        persons.forEach(System.out::println);
+       // persons.forEach(System.out::println);
+       displayAll();
 
     }
 
     public void sortByZip(){
         persons.sort(Comparator.comparing(Person::getZip));
-        persons.forEach(System.out::println);
+        //persons.forEach(System.out::println);
+        displayAll();
 
     }
 
