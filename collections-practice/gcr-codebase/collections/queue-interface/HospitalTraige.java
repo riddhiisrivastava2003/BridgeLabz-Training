@@ -1,0 +1,39 @@
+import java.util.*;
+
+class Patient {
+    String name;
+    int severity;
+
+    public Patient(String name, int severity) {
+        this.name = name;
+        this.severity = severity;
+    }
+}
+
+public class HospitalTraige{
+
+    public static void main(String[] args){
+        PriorityQueue<Patient> pq=new PriorityQueue<>((a,b)->b.severity-a.severity);
+
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter number of patients: ");
+        int n=sc.nextInt();
+
+        for(int i=0; i<n; i++){
+            System.out.println("enter patient name: ");
+            String name=sc.next();
+            System.out.println("enter patient severity: ");
+            int severity=sc.nextInt();
+            pq.add(new Patient(name,severity));
+        }
+
+        System.out.println("treatment order: ");
+        while(!pq.isEmpty()){
+            Patient patient=pq.remove();
+            System.out.println("pateint: "+patient.name+" | severity: "+patient.severity);
+        }
+    
+
+
+    }
+}
