@@ -1,240 +1,669 @@
-# BridgeLabz Training – Daily Progress Log 
-Riddhi Srivastava 
+# BridgeLabz-Training 
+#### Riddhi Srivastava
+
+This repository documents my **day-by-day learning journey at BridgeLabz**, focusing on **Core Java fundamentals, problem-solving, and real-world scenario-based programming**.  
+Each folder reflects **structured practice, industry standards, and clean coding principles** followed throughout the training.
+
+This repository serves as a **learning log and skill showcase**, demonstrating consistent progress, hands-on implementation, and industry-aligned coding practices.
+
+---
+
+## 📚 Training Overview
+* Organization: BridgeLabz
+* Program Type: Technical Training
+* Primary Language: Core Java
+* Concepts Covered: Core Java, OOPs, DSA Basics, Exception Handling
+* Version Control: Git & GitHub
+
+---
+
+## Repository Structure
+```text
+BridgeLabz-Training
+│
+├── core-java-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+│   |   ├── arrays
+│   │   ├── control-flow
+|   |   ├── extras-java-string-handling
+│   │   ├── extras
+│   │   ├── methods
+│   │   ├── programming-elements
+│   |   └── strings
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+|
+├── oops-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── class-object-sequence-diagram
+|   |   ├── classesandobjects
+|   |   ├── constructor-and-modifiers
+|   |   ├── encapsulation
+│   │   ├── inheritance
+│   │   ├── keywords-and-operators
+│   │   └── object-modeling-diagram
+│   │
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── dsa-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   ├── hashmap-and-hashfunction
+│   │   ├── linkedlist
+|   |   ├── sorting
+|   |   ├── stack-and-queue
+|   |   └── stringbuilder-and-stringbuffer
+|   |   
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+|
+├── collections-practice    (branch & folder)
+│   │
+│   ├── gcr-codebase
+|   |   └── generics
+|   |   
+│   ├── scenario-based
+│   │
+│   └── leet-code-codebase
+│
+├── reviews    (branch)
+```
+---
+
+## Scenario Based Branch-wise Structure
+```text
+core-java-practice/
+└── scenario-based/
+    ├── BMIFitnessTracker.java
+    ├── BusRouteDistanceTracker.java
+    ├── CoffeeCounterChronicles.java
+    ├── DigitalWatchSimulation.java
+    ├── ElectionBoothManager.java
+    ├── EmployeeWageCalculation.java
+    ├── FestivalLuckydraw.java
+    ├── FitnessTracker.java
+    ├── LineComparisonProblem.java
+    ├── MetroSmartCardFareDeduction.java
+    ├── SnakeAndLadderProblem.java
+    ├── RohanLibraryReminderApp
+    └── TicketBooking.java
+    
+oops-practice/
+└── scenario-based/
+   ├── OnlineExam/
+   ├── bookmanagement/
+   ├── digitalwalletsystem/
+   ├── ecommerce/
+   ├── eventmanager/
+   ├── hotelmanagement/
+   ├── inventorymanagement/
+   ├── onlinevotingsystem/
+   ├── studentcourseregistration/
+   ├── trafficmanager/
+   ├── bankingaccounthierarchy/
+   ├── employeerolepolymorphism/
+   |
+   ├── AnalyzerOfTemp.java
+   ├── BankAccountManager.java
+   ├── CabBooking.java
+   ├── CafeteriaMenu.java
+   ├── DuplicateOfElements.java
+   ├── EduQuizGrader.java
+   ├── FlightBookingSystem.java
+   ├── HospitalManagementSystem.java
+   ├── InvoiceFreelancer.java
+   ├── InvoiceGenerator.java
+   ├── LibraryManagementSystem.java
+   ├── LibrarySystem.java
+   ├── OnlineBankingSystem.java
+   ├── OnlineQuiz.java
+   ├── PhoneContactOrganizer.java
+   ├── ReverseString.java
+   ├── SentenceFormatterApp.java
+   ├── StudentReportGenerator.java
+   ├── StudentScoreAnalyzer.java
+   ├── StudentScores.java
+   ├── TextAnalyzer.java
+   ├── UtilityMath.java
+   └── VehicleRentalApp.java
+
+
+
+dsa-practice/
+└── scenario-based/
+    ├── bookshelfapp/
+    ├── browserbuddy/
+    ├── cinematime/
+    ├── examproctor/
+    ├── parceltracker/
+    └── trafficmanager/
+
+
+collections-practice/
+└── scenario-based/
+    ├── 
+    ├── 
+    ├── 
+    ├── 
+    ├── 
+    └── 
+    
+
+```
+## 📅 Day-Wise Training Timeline & Work Log
+
+
+---
+
+## 🔹 Day 1 – 16-12-2025 - (Git & GitHub Basics)
+- First day at BridgeLabz  
+- Introduction to the BridgeLabz training program  
+- Learned **industry-standard folder structure** and **GitHub repository organization**
+- Practiced essential Git commands:
+git init, git status, git add, git commit
+git branch, git remote, git push, git pull
+
+---
+
+## 🔹 Day 2 – 17-12-2025 - (Programming Basics & LeetCode)
+- Created a new Git branch : **`core-java-practice`**
+- Solved beginner level 5 **LeetCode problems**.`leet-code-codebase`
+- Solved **10 Level 1 problems**. `gcr-codebase/programming-elements`
+
+---
+
+## 🔹 Day 3 – 18-12-2025 - (Programming Elements)
+- Solved **Programming Elements – Level 1 & Level 2**
+### Topics Covered:
+- Conditional statements
+- Logical operators
+- Decision-making problems
+- Improved program flow understanding
+- Numerical problems & mathematical formulas  
+- Integer & Double operations 
+
+---
+
+## 🔹 Day 4 – 19-12-2025 - (Control Flow)
+`core-java-practice/gcr-codebase/control-flow`
+- Solved **Control Flow – Level 1, Level 2 & Level 3**
+### Concepts Practiced:
+- Level 1: Basic if, if-else
+- Level 2: Nested conditions and switch
+- Level 3: Loops (for, while, do-while) 
+
+---
+
+## 🔹 Day 5 – 20-12-2025 - (Arrays & Scenario Based)
+`core-java-practice/gcr-codebase/arrays`
+### Control Flow, Arrays & Scenario-Based Practice 
+- Solved **Arrays – Level 1 & Level 2 Lab Practice**
+### Array Concepts:
+- Creating, accessing & modifying arrays  
+- Traversal using `for` loop  
+- `length` property  
+- Multi-dimensional arrays (2D matrix)  
+### Scenarios:
+-  Coffee Counter Chronicles  
+-  Maya’s BMI Fitness Tracker
+
+---
+
+## 🔹 Day 6 – 22-12-2025 - (Strings)
+`core-java-practice/gcr-codebase/strings`
+- Solved and submitted **Java String Practice Problems**
+### Topics Covered:
+- String declaration and initialization
+- String input using Scanner
+- Common String methods (length(), charAt(), substring(), equals(), toUpperCase(), toLowerCase())
+- Level 1: Basic string problems
+- Level 2: Logic-based string problems
+
+---
+
+## 🔹 Day 7 – 23-12-2025 -(Advanced Strings)
+`core-java-practice/gcr-codebase/strings`
+- Solved additional **String Practice Problems**
+- Solved **Scenario-Based Problems**
+### Scenarios:
+-  Election Booth Manager  
+-  Metro Smart Card Fare Deduction  
+
+---
+
+## 🔹 Day 8 – 24-12-2025 - (Methods)
+`core-java-practice/gcr-codebase/methods`
+- Solved **Java Methods – Level 1 & Level 2**
+### Topics Covered: 
+- Understanding method creation and method calls
+- Writing reusable utility classes using static methods
+- Passing arrays as method parameters
+- Returning values and arrays from methods
+- Solving problems using mathematical logic (Math.random(), Math.min(), Math.max(), Math.sqrt())
+
+---
+
+## 🔹 Day 9 – 26-12-2025 - (Extras-Java-String-Handling)
+`core-java-practice/gcr-codebase/extras-java-string-handling`
+* Solved Extras – Java String Handling Problems.
+* Solved Java Methods Practice Questions.
+* Solved Scenario Based Problems.
+### Problems Covered:
+- Count vowels & consonants  
+- Reverse string (without built-in methods)  
+- Palindrome check  
+- Remove duplicate characters  
+- Find longest word  
+- Substring occurrence count  
+- Toggle case  
+- Lexicographical comparison  
+- Most frequent character  
+- Remove specific character  
+- Anagram check  
+- Custom replace method 
+### Scenarios:
+- 🚌 Bus Route Distance Tracker  
+- 🎉 Festival Lucky Draw
+
+---
+
+## 🔹 Day 10 – 29-12-2025 - (Extras - Built-In-Functions, LeetCode & Advanced Scenarios)
+`core-java-practice/gcr-codebase/extras`
+#### Extras – Built-In Function Practice
+- Number Guessing Game  
+- Maximum of Three Numbers  
+- Prime Number Checker  
+- Fibonacci Sequence  
+- Palindrome Checker  
+- Factorial (Recursion)  
+- GCD & LCM  
+- Temperature Converter  
+- Calculator  
+
+#### Java Date & Time:
+- ZonedDateTime  
+- Date Arithmetic  
+- Formatting & Comparison  
+
+#### LeetCode Practice:
+- Count Prime Numbers  
+- Happy Number  
+- Palindrome Number  
+- Palindrome Substring  
+- Reverse String  
+
+#### Scenario-Based Applications:
+- 💪 Sandeep’s Fitness Challenge Tracker  
+- 🎬 Movie Ticket Booking App  
+- 📚 Rohan’s Library Reminder App  
+- ⏱️ Digital Watch Simulation  
+- Employee Wage Calculation
+
+---
+
+## 🔹 Day 11 – 30-12-2025 - (OOPS Concepts & Scenario Based)
+`oops-practice/gcr-codebase/classesandobjects`
+- Created new branch `oops-practice` with folder structure similar to core-java-practice
+- Practiced constructor, method creation, object instantiation, and encapsulation
+- Solved **Classes & Objects – Level 1 & Level 2**
+### Scenarios: 
+  - Line Comparison Problem  
+  - Snake and Ladder Problem  
+
+---
+
+## 🔹 Day 12 – 31-12-2025 - (OOPS Concepts)
+`oops-practice/gcr-codebase/constructor-and-modifiers`
+- Solved **Constructors, Classes, Variables & Access Modifiers**
+### 🔹 Constructors
+- Implemented:Default constructors,Parameterized constructors,copy constructors
+- Used constructors to:Initialize object state at creation
+- Reduce dependency on setter methods
+- Observed constructor calling order in inheritance scenarios
+### 🔹 Access Modifiers Practice
+- Implemented Java programs demonstrating:
+public, protected, private, and default access levels
+- Created parent and child classes to observe:
+- Accessibility across same package and different packages
+- Practiced real-world examples like BankAccount, Employee, and Student classes
+
+---
+
+## 🔹 Day 13 – 01-01-2026 - (OOPS Concepts & Scenario Based)
+`oops-practice/gcr-codebase/keywords-and-operators`
+- Solved **Keywords and Operators**
+- Solved **Scenario-Based Questions**
+
+---
+
+## 🔹 Day 14 – 02-01-2026 - (Object-Oriented Design Principles & Scenario-Based)
+`oops-practice/gcr-codebase/object-modeling-diagram`
+`oops-practice/gcr-codebase/class-object-sequence-diagram`
+
+### Object-Oriented Design Principles
+- Object modeling  
+- Object relationships & communication  
+- Class diagram, Object diagram, Sequence diagram  
+
+### Scenario-Based Problems:
+1. Weekly temperature analysis using `float[7][24]`
+   - Hottest & coldest day  
+   - Average temperature per day  
+
+2. Student test score management system:
+   - Average score  
+   - Highest & lowest scores  
+   - Scores above average  
+   - Input validation  
+
+3. String reversal: `"Java"` → `"avaJ"`  
+4. Find duplicate elements in an array  
+
+---
+
+## 🔹 Day 15 – 03-01-2026 - (Inheritance & Scenario-Based)
+`oops-practice/gcr-codebase/inheritance`
+- Solved Inheritance Problems 
+- Solved Scenaio-based problems
+### Inheritance Concepts
+- Single Inheritance  
+- Multilevel Inheritance  
+- Hierarchical Inheritance  
+- Hybrid Inheritance  
+
+### Scenarios:
+1. Library Management System – Book Search and Checkout  
+2. EduQuiz – Student Quiz Grader  
+3. Bank Account Manager (Deposit, Withdraw, Balance Check with overdraft protection)  
+4. Mathematical Utility Class:
+   - Factorial  
+   - Prime number check  
+   - GCD  
+   - Nth Fibonacci number  
+   - Edge case handling (0, 1, negative numbers)
+
+---
+
+## 🔹 Day 16 – 05-01-2026 - (Encapsulation, Polymorphism, Abstraction & Interface)
+`oops-practice/gcr-codebase/encapsulation`
+- Submission of Encapsulation, Polymorphism, Interface and Abstract Class Problems.
+1. Employee Management System
+2. E-Commerce Platform
+3. Vehicle Rental System
+4. Banking System
+5. Library Management System
+6. Online Food Delivery System
+7. Hospital Patient Management
+8. Ride-Hailing Application
+
+- Solved Scenario-Based questions
+### Scenarios:
+* Student Score Analyzer
+* Invoice Generator for Freelancers
+* Cafeteria Menu App
+
+---
+
+## 🔹 Day 17 – 06-01-2026 - (Scenario Based & LeetCode)
+`oops-practice/scenario-based`
+`oops-practice/leet-code-codebase`
+
+- Solved LeetCode questions 
+- Solved Scenario-based questions.
+### LeetCode Questions : 
+1. Container With Most Water
+2. Contains Duplicate
+3. MaxSubArray
+4. Roman To Integer
+### Scenarios : 
+1. Phone Contact Organizer
+2. Online Quiz Platform – Result Processor
+3. Student Report Generator
+4. Library Management System – Book Search and Checkout
+--
+## 🔹 Day 18 – 07-01-2026 - (Scenario Based & LeetCode)
+`oops-practice/scenario-based`
+`oops-practice/leet-code-codebase`
+
+- Solved LeetCode questions 
+- Solved Scenario-based questions.
+### LeetCode Questions : 
+1. Number of Segments in a String 
+2. Reverse String II
+
+### Scenarios : 
+1. Cab Booking System 
+2. Online Banking System  
+                  
+---
+
+## 🔹 Day 19 – 08-01-2026 - (Linked List)
+`dsa-practice/gcr-codebase/linkedlist`
+- Create a New Branch dsa-practice
+- Solved Linked List questions.
+### Topics Covered : 
+* Singly Linked List
+* Doubly Linked List
+* Circular Linked List
+                   
+---
+
+## 🔹 Day 20 – 09-01-2026 - (Scenario Based & Leetcode)
+`oops-practice/scenario-based`  
+`dsa-practice/leet-code-codebase` 
+
+- Solved Scenario Based Questions.
+- Solved 2 Leetcode Questions.
+
+### Scenarios : 
+1. Hospital Patient Management System (CRUD)
+2. Vehicle Rental Application (CRUD)
+3. Flight Booking System (CRUD)
+
+---
+
+## 🔹 Day 21 – 12-01-2026 - (Scenario Based & Leetcode)
+`oops-practice/scenario-based`  
+`dsa-practice/leet-code-codebase` 
+
+- Solved Scenario Based Questions.
+- Solved 2 Leetcode Questions.
+
+### Scenarios : 
+1. Student Course Registration System
+2. Inventory Management System
+3. Online Voting System
+4. Digital Wallet System
+5. TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+6. SmartShelf â€“ Real-Time Book Arrangement (Insertion Sort)
+7. EventManager “ Ticket Price Optimizer (Quick Sort)
+
+---
+
+## 🔹 Day 22 – 13-01-2026 - (Scenario Based & Leetcode)
+`oops-practice/scenario-based`  
+`dsa-practice/leet-code-codebase` 
+
+- Solved Scenario Based Questions.
+- Solved 2 Leetcode Questions.
+
+---
+
+## 🔹 Day 23 – 14-01-2026 - (DSA : Stack , Queue , Hash Maps & Hash Functions)
+`dsa-practice/gcr-codebase`
+
+- Solved Stack and Queue questions.
+- Solved Hash Map and Hash Function questions.
+
+### Stack & Queue 
+1. Implement a Queue Using Stacks
+2. Sort a Stack Using Recursion
+3. Stock Span Problem
+4. Sliding Window Maximum
+5. Circular Tour Problem
+
+### Hash Maps & Hash Functions
+1. Find All Subarrays with Zero Sum
+2. Check for a Pair with Given Sum in an Array
+3. Longest Consecutive Sequence
+4. Implement a Custom Hash Map
+5. Two Sum Problem
+
+
+---
+
+## 🔹 Day 24 – 15-01-2026 - (Sorting Algorithms & LeetCode)
+`dsa-practice/gcr-codebase`
+`dsa-practice/leet-code-codebase`
+- Learned Sorting Algorithms
+- Solved Sorting Algorithm Questions.
+- Solved 2 Leetcode Questions.
+
+### Sorting Algorithms : 
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort 
+- Selection Sort	
+- Heap Sort		
+- Counting Sort    
+- Radix Sort
+- Bucket Sort
+
+
+### Sorting Algorithms Questions :
+1. Bubble Sort - Sort Student Marks
+2. Insertion Sort - Sort Employee IDs
+3. Merge Sort - Sort an Array of Book Prices
+4. Quick Sort - Sort Product Prices
+5. Selection Sort - Sort Exam Scores
+6. Heap Sort - Sort Job Applicants by Salary
+7. Counting Sort - Sort Student Ages
+
+
+---
+
+## 🔹 Day 25 – 16-01-2026 - (StringBuilder, StringBuffer & LeetCode)
+`dsa-practice/gcr-codebase`
+`dsa-practice/leet-code-codebase`
+
+- Learned Concepts of StringBuilder and StringBuffer.
+- Solved Questions with StringBuilder & StringBuffer.
+- Solved 2 LeetCode Questions.
+
+### StringBuilder & StringBuffer Questions :
+1. Reverse a String Using StringBuilder
+2. Remove Duplicates from a String Using StringBuilder
+3. Concatenate Strings Efficiently Using StringBuffer
+4. Compare StringBuffer with StringBuilder for String Concatenation
+
+---
+
+## 🔹 Day 26 – 17-01-2026 - (StringBuilder, StringBuffer , FileReader, InputStreamReader, BinarySearch & LinearSearch)
+`dsa-practice/gcr-codebase`
+
+- Solved FileReader and InputStreamReader Questions.
+- Solved BinarySearch and LinearSeach Problems.
+
+### FileReader & InputStreamReader Questions:
+1. Read a File Line by Line Using FileReader
+2. Count the Occurrence of a Word in a File Using FileReader
+3. Convert Byte Stream to Character Stream Using InputStreamReader
+4. Read User Input and Write to File Using InputStreamReader
+5.  Compare StringBuilder, StringBuffer, FileReader, and InputStreamReader
+
+### LinearSeacrh & BinarySearch Questions: 
+1. Search for the First Negative Number using Linear Search
+2. Search for a Specific Word in a List of Sentences using Linear Search
+3. Find the Rotation Point in a Rotated Sorted Array using Binary Search
+4. Find the Peak Element in an Array using Binary Search
+5. Search for a Target Value in a 2D Sorted Matrix using Binary Search
+6. Find the First and Last Occurrence of an Element in a Sorted Array using Binary Search
+7. Challenge Problem (for both Linear and Binary Search) ***Approach:***
+1.Linear Search for the first missing positive integer.
+2.Binary Search for the target index.
+
+---
+
+
+## 🔹 Day 27 – 19-01-2026 - (Runtime Analysis and Big-O Notations , LeetCode & AddressBookSystem)
+`dsa-practice/gcr-codebase`
+`dsa-practice/leet-code-codebase`
+`oops-practice/gcr-codebase/addressbooksystem`
+
+- Learned Runtime Analysis, Big-O Notations, Time Complexity and Space Complexity.
+- Solved Runtime Analysis and Big-O Notations Questions.
+- Solved LeetCode Questions
+- Started a mini Java Project on AddressBookSystem using oops concepts (UC-1 to UC-10).
+
+### Problem Statement(runtime-analysis):
+1. Search a Target in a Large Dataset
+2. Sorting Large Data Efficiently
+3. String Concatenation Performance
+4. Large File Reading Efficiency
+5. Recursive vs Iterative Fibonacci Computation
+6. Comparing Different Data Structures for Searching
+
+---
+
+## 🔹 Day 28 – 20-01-2026 - (Scenario-based & Leetcode )
+`dsa-practice/gcr-codebase`
+`dsa-practice/leet-code-codebase`
+`oops-practice/scenario-based`
+
+- Solved Scenario-based questions.
+- Solved LeetCode Questions.
+
+### Scenarios (oops-practice):
+- Employee Role Polymorphism
+- Banking Account Hierarchy
+
+### Scenarios (dsa-practice):
+- ***BookShelf*** – Library Organiz Story: In a library system, books are arranged based on genre and author. A HashMap maps genre → list of books (LinkedList). Each list is dynamically updated when books are borrowed or
+returned.
+- ***BrowserBuddy*** – Tab History Manager (Doubly Linked List + Stack)
+Story: Neha is working on a custom browser. Each open tab maintains its browsing history with
+"Back" and "Forward" operations. She uses a Doubly Linked List for history and a Stack to
+hold closed tabs for reopening.
+- ***CinemaTime – Movie Schedule Manager***
+Story: A cinema manager wants a tool to store and update a list of movie showtimes and titles.
+Users should be able to add, view, and search movies.
+- ***ExamProctor*** – Online Exam Review System (Stack + HashMap +
+Functions)
+Story: During an online exam, each student’s question navigation is recorded using a Stack
+(last visited question). Answers are stored in a HashMap: questionID → answer.
+A function auto-calculates the score once the student submits.
+- ***ParcelTracke***r – Delivery Chain Management (Singly Linked List)
+Story: A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+Delivered. Each stage is a node in a Singly Linked List.
+- ***TrafficManager*** – Roundabout Vehicle Flow Story: A smart city roundabout allows vehicles to enter and exit dynamically. Each vehicle is a node in a Circular Linked List. A Queue manages vehicles waiting to enter.
+
+---
+
+## 🔹 Day 29 – 21-01-2026 - (Scenario-based & Leetcode )
+`collections-practice/gcr-codebase`
+
+- Create a new Branch called ***collections-practice***
+- Read Concepts of Generics.
+- Solved questions on Generics.
+
+### Problem Statement( Java Generics ):
+1. Smart Warehouse Management System
+2. Dynamic Online Marketplace
+3. Multi-Level University Course Management System
+4. Personalized Meal Plan Generator
+5. AI-Driven Resume Screening System
 
-This repository documents my daily learning progress during the BridgeLabz Java Training Program. The log is organized week-wise with clear dates and task descriptions, reflecting consistent learning, hands-on practice, and assignment submissions.
 
-# 📅 16 December 2025 – Day 1
 
-Installed and configured Git and required development tools
 
-Set up Java Development Kit (JDK)
 
-Installed and configured Eclipse IDE
 
-Verified environment setup and repository initialization
 
-# 📅 17 December 2025 – Day 2
-
-Introduction to Java programming language
-
-Studied Java history, features, and use cases
-
-Understood Java program structure and execution flow
-
-Solved and practiced basic Java problems on LeetCode
-
-# 📅 18 December 2025 – Day 3
-
-Learned Programming Elements in Java
-
-Practiced Java basic concepts:
-
-Variables and Data Types
-
-Operators
-
-Input/Output
-
-Completed and submitted Level 1 and Level 2 assignments based on programming elements
-
-# 📅 19 December 2025 – Day 4
-
-Studied Java Fundamentals in depth
-
-Learned and implemented Control Flow Statements:
-
-Conditional statements (if, if-else, switch)
-
-Looping constructs (for, while, do-while)
-
-Completed and submitted Level 1, Level 2, and Level 3 assignments on control flow
-
-# 📅 20 December 2025 – Day 5
-
-Learned Arrays in Java
-
-Understood array declaration, initialization, and traversal
-
-Practiced array-based problem solving
-
-Completed and submitted Level 1 and Level 2 assignments on Arrays
-
-# 📅 22 December 2025 – Day 6
-
-Learned Strings in Java
-
-Learned and Understood Strings and Exception Handling
-
-Completion of Level1, level2, and level3 of assignments on strings in java
-
-# 📅 23 December 2025 – Day 7
-
-Solved and completed scenario based questions.
-
-# 📅 24 December 2025 – Day 8
-
-Learned methods in java
-
-Read and understood Methods in java
-
-Assinged with level1, level2 and level 3 of assignments. 
-
-Assigned with extra questions.
-
-# 📅 26 December 2025 – Day 8
-
-Gave first review
-
-Submitted the methods assignment level1,level2,level3
-
-# 📅 27 december 2025
-
-submitted  Built-in Function assignment
-
-#  📅 29 december 2025
-
-submitted scenraio based questions
-
-submitted employee wage calculation 
-
-# 📅 30 december 2025
-
-completed employee wage calculation
-
-completed snake and ladder
-
-completed line comparison
-
-
-# 📘 Daily Progress Log – BridgeLabz Training
-
-This repository contains Object-Oriented Programming (OOPs) practice programs in Java.
-The programs are designed to understand and implement core OOP concepts using real-world examples.
-It serves as a learning resource to strengthen Java fundamentals and improve object-oriented design skills.
-
-# Week -3 Starting with oops concepts  
- 
-# 📅 30 December 2025 (Tuesday) [class-and-object](./oops-practice/gcr-codebase/class-and-object/)
-
-* Started OOPS practice in Java.
-
-* Learned basics of class structure, object creation, and data hiding.
-
-* Created a dedicated Git branch: oops-practice
-
-* Completed Classes and Objects assignments:
-
-✅ Level 1 & Level 2
-
-# 📅 31 December 2025 (Wednesday) [class-and-object](./oops-practice/gcr-codebase/constructors-access-modifiers-and-variables/)
-
-* learned about constructors, variables and access modifiers
-
-* completed constructor, instance variables and access modifiers assignment 
-
-✅ Level 1 
-
-
-#  📅 1 January 2026 
-
-* learned about  keywords and static, final key words and instanceof operator
-
-* completed assignment 
-
-✅ Level 1 
-
-#  📅 2 January 2026 
-
-* learned about object oriented design principles and oblect modeleing designs
-
-* completed assignment 
-
-✅ Level 1 
-
-#  📅 3 January 2026 
-
-* learned about inheritance in java and its multiple types
-
-* ✅  completed assignment 
-
-#  📅 5 January 2026
-
-* learned about encapsulation in java
-
-* ✅  completed assignment
-
-* completed scenario based questions
-
-#  📅 6 January 2026
-
-* completed leetcode based questions and scenario based questions
-
-# 📅 7 January 2026
-
-* completed leetcode based questions and scenario based questions
-
-# 📅 8 January 2026
-
-* started with dsa
-
-* learned about linked list (singly,doubly,circular)
-
-* completed assignment
-
-# 📅 9 January 2026
-
-* submitted linked list assignment
-
-* submitted oops scenario based questions
-
-# 📅 12 January 2026
-
-* assigned with oops scenario based questions
-
-# 📅 13 January 2026
-
-* completed leetcode questions and got material for stack queue and hashmap
-
-# 📅 12 January 2026
-
-* assigned with oops scenario based questions
-
-# 📅 13 January 2026
-
-* completed scenario based questions on oops
-
-*  got material and assignment for stack queue and hashmap
-
-# 📅 14 January 2026
-
-* got understanding on stack, queues, hashmaps and hash functions
-
-# 📅 15 January 2026
-
-* completed sorting algorithms 
-
-# 📅 16 January 2026
-
-* got introduction with searching algorithms and string builder, string buffer, input stream reader, file reader
-
-# 📅 17 January 2026
-
-* learnt about searching algorithms
-
-# 📅 19 January 2026
-
-* assigned with scenario-based questions, submitted addressbook problem and runtime analysis assignment
-
-# 📅 20 January 2026
-
-* completed dsa scenario based questions and oops scenario based questions
-  
-
-# 📅 21 January 2026
-
-* learned about generics and completed generics assignment
-
-
-
-  
-  
