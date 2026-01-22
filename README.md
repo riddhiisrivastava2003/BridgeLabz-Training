@@ -148,7 +148,7 @@ dsa-practice/
 
 collections-practice/
 └── scenario-based/
-    ├── InsurancePolicyManagementSystem/
+    ├── 
     ├── 
     ├── 
     ├── 
@@ -660,11 +660,49 @@ Delivered. Each stage is a node in a Singly Linked List.
 4. Personalized Meal Plan Generator
 5. AI-Driven Resume Screening System
 
-
-
-
-
 ---
 
+## 🔹 Day 30 – 22-01-2026 - (Scenario-based & Leetcode )
+`collections-practice/gcr-codebase`
+
+- Solved questions on Map-Interface
+- Solved questions on Queue-Interface
+- Solved questions on Set-Interface
+- Solved questions on List-Interface
+- Banking Management
+- Insurance Policy Management Using Map and Set (both indvidually)
+- Shopping Cart 
+- Voting System
+
+### List Interface Questions( Collections Framework ):
+1. Reverse a List
+2. Find Frequency of Elements
+3. Rotate Elements in a List
+4. Remove Duplicates While Preserving Order
+5. Find the Nth Element from the End
+
+### Set Interface Questions( Collections Framework ):
+
+1. Check if Two Sets Are Equal
+2. Union and Intersection of Two Sets
+3. Symmetric Difference
+4. Convert a Set to a Sorted List
+5. Find Subsets
+
+### Map Interface Questions( Collections Framework ):
+
+1. Word Frequency Counter
+2. Invert a Map
+3. Find the Key with the Highest Value
+4. Merge Two Maps
+5. Group Objects by Property
+
+### Queue Interface Questions( Collections Framework ):
+
+1. Reverse a Queue
+2. Generate Binary Numbers Using a Queue
+3. Hospital Triage System
+4. Implement a Stack Using Queues
+5. Circular Buffer Simulation
 
 
