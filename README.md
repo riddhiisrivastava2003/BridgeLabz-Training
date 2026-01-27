@@ -705,4 +705,16 @@ Delivered. Each stage is a node in a Singly Linked List.
 4. Implement a Stack Using Queues
 5. Circular Buffer Simulation
 
+----
+
+## 🔹 Day 31 – 23-01-2026 - (Scenario-based & Leetcode )
+`collections-practice/gcr-codebase`
+
+- Got study material and assignments on Java Streams
+- Got study material and assignments on Java Exceptions
+
+
+
+
+
 
