@@ -713,6 +713,17 @@ Delivered. Each stage is a node in a Singly Linked List.
 - Got study material and assignments on Java Streams
 - Got study material and assignments on Java Exceptions
 
+----
+
+## 🔹 Day 32 – 27-01-2026 - (Scenario-based & Leetcode )
+`collections-practice/gcr-codebase`
+
+- Submitted assignments on Java Streams
+- Submitted assignments on Java Exceptions
+- Gave Review
+- Got study material for Regex and JUnit
+
+
 
 
 
