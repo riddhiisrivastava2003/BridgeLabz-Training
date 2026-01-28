@@ -148,11 +148,11 @@ dsa-practice/
 
 collections-practice/
 └── scenario-based/
-    ├── 
-    ├── 
-    ├── 
-    ├── 
-    ├── 
+    ├── Parcel-Tracker/
+    ├── File-Backup-Scheduler/
+    ├── Edu-Result/
+    ├── Smart-Checkout/
+    ├── Table-Reservation-System/
     └── 
     
 
@@ -707,21 +707,67 @@ Delivered. Each stage is a node in a Singly Linked List.
 
 ----
 
-## 🔹 Day 31 – 23-01-2026 - (Scenario-based & Leetcode )
+## 🔹 Day 31 – 23-01-2026 - (Scenario-Based & Leetcode)
 `collections-practice/gcr-codebase`
+`collections-practice/scenario-based`
 
-- Got study material and assignments on Java Streams
-- Got study material and assignments on Java Exceptions
+- Learned about ***streams*** and ***exceptions***.
+- Solved Scenario based questions 
+
+### Scenarios : 
+- ***ParcelTracker*** – Delivery Chain Management (Singly Linked List)
+Story: A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+Delivered. Each stage is a node in a Singly Linked List.
 
 ----
 
-## 🔹 Day 32 – 27-01-2026 - (Scenario-based & Leetcode )
+## 🔹 Day 32 – 27-01-2026 - ( Streams & Exceptions)
 `collections-practice/gcr-codebase`
+`collections-practice/scenario-based`
 
-- Submitted assignments on Java Streams
-- Submitted assignments on Java Exceptions
-- Gave Review
-- Got study material for Regex and JUnit
+- Solved Stream Questions
+- Solved Exceptions Questions 
+- Solved Scenario based Questions
+
+### Scenarios : 
+
+- ***SmartCheckout*** – Supermarket Billing Queue (Queue + HashMap)
+Story: At a supermarket, each checkout counter maintains a Queue of customers. Each
+customer has a list of items, and a HashMap is used to fetch price and stock quickly.
+
+- ***EduResults*** – Rank Sheet Generator (Merge Sort)
+Story: An educational board compiles marks of thousands of students from different districts.
+Each district submits a sorted list of students by score. The main server needs to merge and
+sort all these lists into a final state-wise rank list. Merge Sort ensures efficiency and maintains
+stability for duplicate scores.
+
+----
+
+## 🔹 Day 33 – 28-01-2026 - (Scenario-Based)
+`collections-practice/scenario-based`
+
+- Solved Scenario Based Questions 
+
+### Scenarios : 
+1. ***Restaurant Table Reservation System***
+ A restaurant allows customers to reserve tables for specific time slots.
+Requirements:
+Use Map<Integer, Table> (tableNumber → Table)
+Store reservations in List<Reservation>
+Prevent double booking using logic + exception
+Throw TableAlreadyReservedException
+Use methods: reserveTable(), cancelReservation(), showAvailableTables()
+
+
+
+2. ***File Backup Scheduler***
+ A system schedules file backups at different times.
+Requirements:
+Store backup tasks in PriorityQueue<BackupTask>
+Higher priority for critical folders
+Use Comparable for sorting
+Throw InvalidBackupPathException
+Execute tasks in priority order
 
 
 
