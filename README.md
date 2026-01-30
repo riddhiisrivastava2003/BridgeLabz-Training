@@ -792,9 +792,9 @@ Requirements:
 Accept two words as input.
 Check if the second word is the reverse of the first word (case-insensitive).
 
-If reversed:
+  If reversed:
 Reverse the first word, lowercase it, replace vowels with @, and print.
-If not reversed:
+  If not reversed:
 Combine both words, uppercase, count vowels & consonants.
 Print first 2 unique vowels if vowels > consonants.
 Print first 2 unique consonants if consonants > vowels.
@@ -811,7 +811,7 @@ Reverse remaining chars.
 Convert even-positioned characters (0-based) in reversed string to uppercase.
 Return the result as generated key.
 
-Main method:
+  Main method:
 Prompt user for input.
 Call CleanseAndInvert().
 Print "The generated key is - <key>" or "Invalid Input" if validation fails.
