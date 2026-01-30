@@ -801,7 +801,7 @@ Print first 2 unique consonants if consonants > vowels.
 Print "Vowels and consonants are equal" if counts equal.
 Validate inputs → no spaces allowed, otherwise print "<word> is invalid".
 
-3. ***Flip Key***
+2. ***Flip Key***
 Requirements:
 Implement CleanseAndInvert(string input):
 Input must not be null, min 6 chars, no spaces/digits/special chars.
