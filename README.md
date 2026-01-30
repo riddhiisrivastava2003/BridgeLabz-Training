@@ -769,6 +769,63 @@ Use Comparable for sorting
 Throw InvalidBackupPathException
 Execute tasks in priority order
 
+----
+
+## 🔹 Day 33 – 29-01-2026 - (Scenario-Based)
+`collections-practice/scenario-based`
+
+- Solved Regex Questions
+- Solved Junit Questions
+
+----
+
+## 🔹 Day 34 – 30-01-2026 - (Scenario-Based)
+`core-java-practice/scenario-based`
+`oops-practice/scenario-based`
+
+- Solved Scenario based questions
+
+### Scenarios : 
+
+1. ***Lexical Twist***
+Requirements:
+Accept two words as input.
+Check if the second word is the reverse of the first word (case-insensitive).
+
+If reversed:
+Reverse the first word, lowercase it, replace vowels with @, and print.
+If not reversed:
+Combine both words, uppercase, count vowels & consonants.
+Print first 2 unique vowels if vowels > consonants.
+Print first 2 unique consonants if consonants > vowels.
+Print "Vowels and consonants are equal" if counts equal.
+Validate inputs → no spaces allowed, otherwise print "<word> is invalid".
+
+3. ***Flip Key***
+Requirements:
+Implement CleanseAndInvert(string input):
+Input must not be null, min 6 chars, no spaces/digits/special chars.
+Convert input to lowercase.
+Remove chars with even ASCII values.
+Reverse remaining chars.
+Convert even-positioned characters (0-based) in reversed string to uppercase.
+Return the result as generated key.
+
+Main method:
+Prompt user for input.
+Call CleanseAndInvert().
+Print "The generated key is - <key>" or "Invalid Input" if validation fails.
+
+----
+
+
+
+
+
+
+
+
+
 
 
 
