@@ -818,6 +818,34 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 
 ----
 
+## 🔹 Day 35 – 31-01-2026 - (Scenario-Based)
+`collections-practice/scenario-based`
+
+- Solved Scenario based questions
+
+### Scenarios : 
+
+2. ***Future Logistics***
+Requirements:
+Maintain transport records for goods (Brick / Timber).
+Abstract class GoodsTransport with:
+Attributes: transportId, transportDate, transportRating.
+Abstract methods: vehicleSelection() and calculateTotalCharge().
+
+BrickTransport:
+Attributes: brickSize, brickQuantity, brickPrice.
+Vehicle based on quantity (Truck/Lorry/MonsterLorry).
+Total charge = brick cost + vehicle cost + tax – discount (based on rating).
+
+TimberTransport:
+Attributes: timberLength, timberRadius, timberType, timberPrice.
+Vehicle based on area, total charge = volume * type rate + vehicle + tax – discount.
+
+Utility class:
+parseDetails(input) → return proper transport object.
+validateTransportId(id) → checks format RTS###A.
+findObjectType(obj) → BrickTransport / TimberTransport.
+UserInterface: take input, validate, parse, calculate and print total charge
 
 
 
