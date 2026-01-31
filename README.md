@@ -822,6 +822,7 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 `collections-practice/scenario-based`
 
 - Solved Scenario based questions
+- Completed CSV data handling assignment
 
 ### Scenarios : 
 
