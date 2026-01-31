@@ -825,7 +825,7 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 
 ### Scenarios : 
 
-2. ***Future Logistics***
+1. ***Future Logistics***
 Requirements:
 Maintain transport records for goods (Brick / Timber).
 Abstract class GoodsTransport with:
