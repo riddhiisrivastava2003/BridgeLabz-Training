@@ -820,6 +820,8 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 
 ## 🔹 Day 35 – 31-01-2026 - (Scenario-Based)
 `collections-practice/scenario-based`
+`collections-practice/csv-data-handling`
+
 
 - Solved Scenario based questions
 - Completed CSV data handling assignment
@@ -847,6 +849,18 @@ parseDetails(input) → return proper transport object.
 validateTransportId(id) → checks format RTS###A.
 findObjectType(obj) → BrickTransport / TimberTransport.
 UserInterface: take input, validate, parse, calculate and print total charge
+
+----
+
+## 🔹 Day 36 – 2-02-2026 
+`collections-practice/annotations`
+`collections-practice/reflections`
+
+- Completed Annotations Assignment
+- Completed Reflections Assignment
+
+----
+
 
 
 
