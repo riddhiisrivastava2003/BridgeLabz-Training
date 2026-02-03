@@ -839,7 +839,7 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 
 ----
 
-## 🔹 Day 36 – 2-02-2026 
+## 🔹 Day 37 – 03-02-2026 
 `java-8-features-practice/stream-api`
 `collections-practice/scenario-based`
 `io-programming-practice/json-data-handling`
