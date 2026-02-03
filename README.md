@@ -850,7 +850,7 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 ### Scenarios : 
 1. ***Factory Robot Hazard Analyzer***
 
-Requirements:
+ Requirements:
 Evaluate a factory robot’s hazard risk based on arm precision, worker density, and machinery state.
 
 RobotHazardAuditor:
