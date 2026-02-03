@@ -820,35 +820,13 @@ Print "The generated key is - <key>" or "Invalid Input" if validation fails.
 
 ## 🔹 Day 35 – 31-01-2026 - (Scenario-Based)
 `collections-practice/scenario-based`
-`collections-practice/csv-data-handling`
+`java-8-features-practice/csv-data-handling`
 
 
 - Solved Scenario based questions
 - Completed CSV data handling assignment
 
 ### Scenarios : 
-
-1. ***Future Logistics***
-Requirements:
-Maintain transport records for goods (Brick / Timber).
-Abstract class GoodsTransport with:
-Attributes: transportId, transportDate, transportRating.
-Abstract methods: vehicleSelection() and calculateTotalCharge().
-
-BrickTransport:
-Attributes: brickSize, brickQuantity, brickPrice.
-Vehicle based on quantity (Truck/Lorry/MonsterLorry).
-Total charge = brick cost + vehicle cost + tax – discount (based on rating).
-
-TimberTransport:
-Attributes: timberLength, timberRadius, timberType, timberPrice.
-Vehicle based on area, total charge = volume * type rate + vehicle + tax – discount.
-
-Utility class:
-parseDetails(input) → return proper transport object.
-validateTransportId(id) → checks format RTS###A.
-findObjectType(obj) → BrickTransport / TimberTransport.
-UserInterface: take input, validate, parse, calculate and print total charge
 
 ----
 
@@ -860,6 +838,38 @@ UserInterface: take input, validate, parse, calculate and print total charge
 - Completed Reflections Assignment
 
 ----
+
+## 🔹 Day 36 – 2-02-2026 
+`java-8-features-practice/stream-api`
+`collections-practice/scenario-based`
+`io-programming-practice/json-data-handling`
+
+- completed stream api assignment
+- completed json data handling assignment
+
+### Scenarios : 
+1. ***Factory Robot Hazard Analyzer***
+
+Requirements:
+Evaluate a factory robot’s hazard risk based on arm precision, worker density, and machinery state.
+
+RobotHazardAuditor:
+Validates inputs; throws RobotSafetyException for invalid values.
+
+Calculates hazard risk:
+Hazard Risk = ((1.0 - armPrecision) * 15.0) + (workerDensity * machineRiskFactor)
+Machine risk factors: Worn→1.3, Faulty→2.0, Critical→3.0
+
+Program:
+Takes input, calls CalculateHazardRisk, prints score or error message.
+
+----
+
+
+
+
+
+
 
 
 
