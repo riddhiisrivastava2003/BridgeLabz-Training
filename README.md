@@ -865,7 +865,7 @@ Takes input, calls CalculateHazardRisk, prints score or error message.
 
 ----
 
-## 🔹 Day 38 – 03-02-2026 
+## 🔹 Day 38 – 04-02-2026 
 `java-8-features-practice/lambda-expressions`
 `java-8-features-practice/functional-interfaces`
 
