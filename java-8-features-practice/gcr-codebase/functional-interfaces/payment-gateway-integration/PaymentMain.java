@@ -2,6 +2,7 @@ import java.util.*;
 
 public class PaymentMain{
     public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
         PaymentProcessor payment=null;
 
         System.out.println("Choose payment method: ");
