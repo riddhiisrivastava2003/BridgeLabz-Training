@@ -5,7 +5,7 @@ public class FlightUtil{
     public boolean validateFlightNumber(String flightNumber)throws InvalidFlightException {
 
 
-        if (flightNumber == null || !flightNumber.matches("FL-[1-9][0-9]{3}")) {
+        if (flightNumber == null||!flightNumber.matches("FL-[1-9][0-9]{3}")) {
             throw new InvalidFlightException(
                     "The flight number "+flightNumber+" is invalid");
 
@@ -19,9 +19,9 @@ public class FlightUtil{
 
    
         if (!(flightName.equals("SpiceJet")
-                || flightName.equals("Vistara")
-                || flightName.equals("IndiGo")
-                || flightName.equals("Air Arabia"))) {
+                ||flightName.equals("Vistara")
+                ||flightName.equals("IndiGo")
+                ||flightName.equals("Air Arabia"))) {
 
             throw new InvalidFlightException("The flight name " +flightName+" is invalid");
         }
@@ -58,7 +58,7 @@ public class FlightUtil{
             throw new InvalidFlightException("The passenger count "+passengerCount+" is invalid for "+flightName);
         }
 
-        
+
         return true;
     }
 
@@ -82,9 +82,9 @@ public class FlightUtil{
                 break;
         }
 
-        if (currentFuelLevel < 0 || currentFuelLevel > maxFuel) {
-            throw new InvalidFlightException(
-                    "Invalid fuel level for " + flightName);
+        if (currentFuelLevel<0||currentFuelLevel>maxFuel) {
+
+            throw new InvalidFlightException("Invalid fuel level for "+flightName);
         }
 
         return maxFuel - currentFuelLevel;
