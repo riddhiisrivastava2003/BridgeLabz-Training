@@ -872,6 +872,36 @@ Takes input, calls CalculateHazardRisk, prints score or error message.
 - completed lambda expressions assignment
 - completed functional interfaces assignment
 
+----
+
+## 🔹 Day 39 – 05-02-2026
+`java-8-features-practice/collectors`
+`dsa-practice/scenario-based`
+
+- completed collectors assignment
+
+### Scenarios : 
+1. ***Aerovigil***
+
+AeroVigil is a flight validation module for an airline management system.
+Before takeoff, the system validates critical flight details to ensure safe and smooth operations.
+
+Objective:-
+To validate flight information such as passenger count, fuel level, and flight status, and prevent system crashes using proper exception handling.
+
+Key Functionalities:-
+Parse flight details from user input
+Validate passenger capacity and fuel requirements
+Calculate required fuel if validations pass
+Handle invalid inputs using custom exceptions
+
+Key Concepts Used:-
+Object-Oriented Programming (OOP)
+Exception Handling (Custom Exceptions)
+Input validation and error handling
+
+
+
 
 
 
