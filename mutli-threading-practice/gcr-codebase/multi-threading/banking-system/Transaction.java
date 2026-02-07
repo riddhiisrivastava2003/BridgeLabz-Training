@@ -5,6 +5,7 @@ public class Transaction implements Runnable{
     
     private BankAccount account;
 
+    
     private String customerName;
     private int amount;
 

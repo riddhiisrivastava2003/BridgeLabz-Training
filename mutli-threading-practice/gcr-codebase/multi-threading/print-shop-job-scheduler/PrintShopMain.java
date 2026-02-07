@@ -5,6 +5,7 @@ public class PrintShopMain{
 
         long startTime=System.currentTimeMillis();
 
+        
          System.out.println("Starting print jobs...");
 
          PrintJob j1=new PrintJob("Job1",10,5);

@@ -5,6 +5,7 @@ public class PrintJob implements Runnable{
     private int pages;
     private int priority;
 
+    
         public PrintJob(String jobName, int pages, int priority) {
         this.jobName = jobName;
         this.pages = pages;

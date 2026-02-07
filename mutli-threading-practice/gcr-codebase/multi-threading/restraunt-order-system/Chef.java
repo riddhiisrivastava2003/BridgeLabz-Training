@@ -3,6 +3,7 @@ public class Chef extends Thread{
     private int totalTime;
 
     
+    
     public Chef(String chefName,String dish, int totalTime){
         super(chefName);
         this.dish = dish;

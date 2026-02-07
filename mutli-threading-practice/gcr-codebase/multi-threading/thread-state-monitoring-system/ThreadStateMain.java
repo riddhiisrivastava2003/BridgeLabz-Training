@@ -8,6 +8,7 @@ public class ThreadStateMain{
         
         Thread[] tasks={t1,t2};
 
+        
         StateMonitor monitor=new StateMonitor(tasks);
         monitor.start();
         t1.start();
