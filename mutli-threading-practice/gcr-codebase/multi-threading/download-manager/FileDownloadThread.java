@@ -1,6 +1,7 @@
 import java.util.*;
 public class FileDownloadThread extends Thread{
 
+    
     private String filename;
 
     public FileDownloadThread(String filename){

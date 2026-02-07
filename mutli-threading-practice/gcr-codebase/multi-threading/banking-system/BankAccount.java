@@ -1,5 +1,6 @@
 public class BankAccount{
 
+    
     private int balance=10000;
 
     public synchronized boolean withdraw(String customer, int amount){

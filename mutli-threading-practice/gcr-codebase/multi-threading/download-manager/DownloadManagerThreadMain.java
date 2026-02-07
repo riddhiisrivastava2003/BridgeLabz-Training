@@ -1,6 +1,7 @@
 import java.util.*;
 public class DownloadManagerThreadMain{
 
+    
     public static void main(String args[]) throws InterruptedException{
 
         Scanner sc=new Scanner(System.in);

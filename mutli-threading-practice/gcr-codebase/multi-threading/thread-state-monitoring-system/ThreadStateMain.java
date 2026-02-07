@@ -5,6 +5,7 @@ public class ThreadStateMain{
         TaskRunner t1=new TaskRunner("Task-1");
         TaskRunner t2=new TaskRunner("Task-2");
 
+        
         Thread[] tasks={t1,t2};
 
         StateMonitor monitor=new StateMonitor(tasks);

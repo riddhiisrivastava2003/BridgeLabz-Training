@@ -1,5 +1,6 @@
 public class PrintJob implements Runnable{
 
+    
     private String jobName;
     private int pages;
     private int priority;
