@@ -10,7 +10,7 @@ public class FestivalLuckyDraw{
         for(int i=1;i<=visitors;i++){
 
             System.out.println("visitor "+i+"enter your number");
-            (!sc.hasNextInt()){
+            if(!sc.hasNextInt()){
                 System.out.println("invalid input...enter valid number");
                 sc.next();
                 continue;
