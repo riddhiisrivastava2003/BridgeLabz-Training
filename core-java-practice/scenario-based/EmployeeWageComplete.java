@@ -101,6 +101,7 @@ class EmpWageBuilder implements IEmpWageBuilder{
         company.setTotalWage(totalHours * company.wagePerHour);
     }
 
+    
 
 
     // UC11
