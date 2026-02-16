@@ -92,6 +92,7 @@ class EmpWageBuilder implements IEmpWageBuilder{
 
 
             totalHours += empHours;
+            
 
             int dailyWage = empHours * company.wagePerHour; // UC2
             company.dailyWages.add(dailyWage);               // UC13
