@@ -900,6 +900,149 @@ Object-Oriented Programming (OOP)
 Exception Handling (Custom Exceptions)
 Input validation and error handling
 
+----
+
+
+## 🔹 Day 40 – 06-02-2026
+`java-8-features-practice/collectors`
+`dsa-practice/scenario-based`
+
+### Scenarios : 
+
+1. ***Food Delivery Order Routing System***
+Food Delivery Order Routing System Scenario: A food delivery company assigns orders to delivery agents based on proximity and availability. Requirements: Store orders using Queue Store delivery agents using List Assign orders FIFO to the nearest available agent Use OOP: Order, Agent, DeliveryService Throw NoAgentAvailableException if no agent is free Use methods to assign, cancel, and view active deliveries Concepts: Queue, List, OOP, Exception Handling
+
+2. ***Online Classroom Attendance Tracker Scenario***
+Online Classroom Attendance Tracker Scenario: An online learning platform tracks student attendance per session. Requirements: Store student IDs in Set to avoid duplicates Track session-wise attendance using Map<SessionID, Set> Use methods to mark, remove, and display attendance Throw DuplicateAttendanceException if already marked Concepts: Set, Map, OOP, Custom Exception
+
+----
+
+## 🔹 Day 41 – 07-02-2026
+`java-8-features-practice/collectors`
+`dsa-practice/scenario-based`
+
+Solved Scenario based questions
+
+----
+
+## 🔹 Day 42 – 09-02-2026
+`design-practice/gcr-codebase`
+`multi-threading-pracrice/gcr-codebase`
+`collections-practice/scenario-based`
+
+- Created a new branch called design-practice
+- Created a new branch called multi-threading-pracrice
+- Solved question on design pattern
+- Solved multi-threading questions
+- Solved Scenario-based questions
+
+### Design-Pattern Question : 
+
+- Smart University Library Management System The Smart University Library is developing a next-generation digital platform for managing books, users, and notifications. The system must be scalable, consistent, and user-friendly.
+
+- Solved Multi-threading questions
+
+----
+
+## 🔹 Day 43 – 10-02-2026 (Mock Test)
+
+----
+
+## 🔹 Day 44 – 11-02-2026 (SonarCube Integration)
+`collections-practice/gcr-codebase/sonar-integration`
+
+***Analysis Summary:***
+
+- Quality Gate: Passed
+- Security Issues: 0
+- Reliability Issues: 0
+- Maintainability Issues: Code Smells detected
+- Test Coverage: 0% (JUnit not implemented)
+- Code Duplications: Detected
+- Sonar Scanner Execution Status
+
+ANALYSIS SUCCESSFUL – Report available on SonarQube dashboard.
+
+----
+
+## 🔹 Day 45 – 12-02-2026 (JDBC Setup)
+`jdbc-and-mysql-practice/gcr-codebase`
+
+Configured JDBC in a Core Java project to connect with MySQL database.
+
+***Concepts Covered***
+- JDBC 5-Layer Architecture
+- DriverManager Connection
+- Statement & PreparedStatement
+- CRUD Operations
+- Exception Handling
+- Proper Resource Closing
+
+***Outcome:***
+Successfully connected Java application with MySQL
+Executed Insert, Update, Delete, Select queries
+
+----
+
+## 🔹 Day 46 – 13-02-2026 (Health-Clinic-App)
+`jdbc-and-mysql-practice/gcr-codebase`
+
+***Health Clinic Management System (JDBC)***
+Developed a layered Health Clinic App using Core Java + JDBC.
+
+***Features***
+- Patient Management (Add, Update, Search, Delete)
+- Doctor Management
+- Visit / Appointment Management
+- Foreign Key Relationships
+- PreparedStatement Usage
+- Architecture
+- Main → Service → DAO → Database
+
+***Outcome***
+- Implemented complete CRUD operations
+- Applied layered architecture
+- Handled SQL & runtime errors effectively
+- Folder
+- health-clinic-app
+
+----
+
+## 🔹 Day 47 – 14-02-2026(TomCatServlet & SpringBoot Setup)
+
+----
+
+## 🔹 Day 48 – 16-02-2026 - (Employee Wage Computation & Address Book Problem)
+
+`core-java-practice/scenario-based/EmployeeWageComplete`
+`oops-practice/gcr-codebase/addressbook`
+
+----
+
+## 🔹 Day 50 – 17-02-2026 
+`collections-practice/scenario-based`
+
+- Solved scenario based questions
+- setup repository for quantity measurement app
+
+----
+
+## 🔹 Day 51 – 18-02-2026 
+
+- attended mock test
+- solved two features of quantity measurement app
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
