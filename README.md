@@ -1019,7 +1019,7 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 
 ----
 
-## 🔹 Day 50 – 17-02-2026 
+## 🔹 Day 49 – 17-02-2026 
 `collections-practice/scenario-based`
 
 - Solved scenario based questions
@@ -1027,7 +1027,7 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 
 ----
 
-## 🔹 Day 51 – 18-02-2026 
+## 🔹 Day 50 – 18-02-2026 
 
 - attended mock test
 - solved two features of quantity measurement app
