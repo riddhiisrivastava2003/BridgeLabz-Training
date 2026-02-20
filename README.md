@@ -1027,10 +1027,16 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 
 ----
 
-## 🔹 Day 50 – 18-02-2026 
+## 🔹 Day 50 – 18-02-2026 (Quantity Measurement System)
 
 - attended mock test
-- solved two features of quantity measurement app
+- solved feature 1 and feature 2 of quantity measurement app
+
+----
+
+## 🔹 Day 51 – 19-02-2026 (Quantity Measurement System)
+
+- solved feature 3 and feature 4 of quantity measurement app
 
 
 
