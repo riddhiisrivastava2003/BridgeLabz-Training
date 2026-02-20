@@ -1037,6 +1037,15 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 ## 🔹 Day 51 – 19-02-2026 (Quantity Measurement System)
 
 - solved feature 3 and feature 4 of quantity measurement app
+- solved 2 leetcode questions
+
+----
+
+## 🔹 Day 51 – 20-02-2026 (Quantity Measurement System)
+
+- solved feature 5 and feature 6 of quantity measurement app
+- solved a scenario based question
+- solved 2 leetcode questions
 
 
 
