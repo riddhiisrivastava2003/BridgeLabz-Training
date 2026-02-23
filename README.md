@@ -1055,6 +1055,14 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 
 - solved 2 leetcode questions
 
+----
+
+## 🔹 Day 54 – 22-02-2026
+`collections-practice/leetcode-based`
+
+- solved 2 leetcode questions
+- solved 7 uc of Quantity Measurement App
+
 
 
 
