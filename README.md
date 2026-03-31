@@ -1063,6 +1063,110 @@ Developed a layered Health Clinic App using Core Java + JDBC.
 - solved 2 leetcode questions
 - solved 7 uc of Quantity Measurement App
 
+---
+
+## 🔹 Day 57– 24-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+
+## 🔹 Day 58 – 24-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+
+## 🔹 Day 59 – 25-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+---
+
+## 🔹 Day 60 – 26-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 61 – 27-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 62– 28-02-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 63 – 05-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 64 – 06-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 64 – 07-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 65 – 09-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+
+---
+
+## 🔹 Day 66 – 10-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 67 – 11-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+## 🔹 Day 68 – 12-03-2026
+
+- Working on Quantity Measurement App
+- Working on Address Book
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
 
