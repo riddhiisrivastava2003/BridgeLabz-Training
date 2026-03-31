@@ -1,0 +1,4 @@
+Server started successfully
+Connection error occurred
+Processing data
+File not found error

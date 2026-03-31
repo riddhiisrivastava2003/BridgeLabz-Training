@@ -1,0 +1,5 @@
+name: riddhi 
+age: 22
+course: betch cs
+
+this line is in uppercase to be converted in lowercase

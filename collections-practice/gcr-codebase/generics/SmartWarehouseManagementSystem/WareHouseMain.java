@@ -1,0 +1,60 @@
+import java.util.*;
+
+public class WareHouseMain{
+
+    public static void main(String args[]){
+
+        Scanner sc=new Scanner(System.in);
+
+        Storage<Electronics> electronicsStorage=new Storage<>();
+        Storage<Furniture> furnitureStorage=new Storage<>();
+        Storage<Groceries> groceriesStorage=new Storage<>();
+
+        while(true){
+            System.out.println("1. add electronics");
+            System.out.println("2. add furniture");
+            System.out.println("3. add groceries");
+            System.out.println("4. display all");
+            System.out.println("5. exit");
+
+            int choice=sc.nextInt();
+            sc.nextLine();
+
+
+            if(choice >=1 && choice <=3){
+                System.out.println("enter the name of the item");
+                String name=sc.nextLine();
+
+                if(choice==1){
+                    electronicsStorage.addItem(new Electronics(name));
+                }
+                else if(choice==2){
+                    furnitureStorage.addItem(new Furniture(name));
+                }
+                else{
+                    groceriesStorage.addItem(new Groceries(name));
+                
+                }
+            }
+
+                else if(choice==4){
+                    List<WareHouseItem> allItems=new ArrayList<>();
+                    allItems.addAll(electronicsStorage.getItems());
+                    allItems.addAll(furnitureStorage.getItems());
+                    allItems.addAll(groceriesStorage.getItems());
+
+                    WareHouse.displayAll(allItems);
+
+                }
+
+                else if(choice==5){
+                    System.out.println("exiting the program");
+                    break;
+                }
+                else{
+                    System.out.println("invalid choice");
+                }
+            }
+
+        }
+    }

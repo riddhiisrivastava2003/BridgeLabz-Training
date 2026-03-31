@@ -1,0 +1,5 @@
+name: riddhi 
+age: 22
+course: betch cs
+
+THIS LINE IS IN UPPERCASE TO BE CONVERTED IN LOWERCASE
